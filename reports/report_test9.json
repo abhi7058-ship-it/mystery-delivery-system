@@ -1,0 +1,75 @@
+{
+    "packages": [
+        {
+            "package_id": "P1",
+            "warehouse": "W3",
+            "assigned_agent": "A1",
+            "agent_to_warehouse_distance": 20.62,
+            "warehouse_to_destination_distance": 12.73,
+            "total_distance": 33.34
+        },
+        {
+            "package_id": "P2",
+            "warehouse": "W3",
+            "assigned_agent": "A1",
+            "agent_to_warehouse_distance": 20.62,
+            "warehouse_to_destination_distance": 3.61,
+            "total_distance": 24.22
+        },
+        {
+            "package_id": "P3",
+            "warehouse": "W3",
+            "assigned_agent": "A1",
+            "agent_to_warehouse_distance": 20.62,
+            "warehouse_to_destination_distance": 7.62,
+            "total_distance": 28.23
+        },
+        {
+            "package_id": "P4",
+            "warehouse": "W1",
+            "assigned_agent": "A1",
+            "agent_to_warehouse_distance": 28.64,
+            "warehouse_to_destination_distance": 12.21,
+            "total_distance": 40.84
+        },
+        {
+            "package_id": "P5",
+            "warehouse": "W2",
+            "assigned_agent": "A3",
+            "agent_to_warehouse_distance": 10.05,
+            "warehouse_to_destination_distance": 4.47,
+            "total_distance": 14.52
+        },
+        {
+            "package_id": "P6",
+            "warehouse": "W1",
+            "assigned_agent": "A1",
+            "agent_to_warehouse_distance": 28.64,
+            "warehouse_to_destination_distance": 11.18,
+            "total_distance": 39.82
+        },
+        {
+            "package_id": "P7",
+            "warehouse": "W1",
+            "assigned_agent": "A1",
+            "agent_to_warehouse_distance": 28.64,
+            "warehouse_to_destination_distance": 5.83,
+            "total_distance": 34.47
+        },
+        {
+            "package_id": "P8",
+            "warehouse": "W2",
+            "assigned_agent": "A3",
+            "agent_to_warehouse_distance": 10.05,
+            "warehouse_to_destination_distance": 6.4,
+            "total_distance": 16.45
+        }
+    ],
+    "agent_totals": {
+        "A1": 200.92,
+        "A2": 0.0,
+        "A3": 30.98,
+        "A4": 0.0
+    },
+    "most_efficient_agent": "A2"
+}
